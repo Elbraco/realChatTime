@@ -2,7 +2,7 @@
   "name": "realchat",
   "version": "1.0.0",
   "description": "Real chat time",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "node server",
     "dev": "nodemon server"
